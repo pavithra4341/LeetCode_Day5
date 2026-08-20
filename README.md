@@ -1,6 +1,5 @@
 # 5. Longest Palindromic Substring
 
-![LeetCode](https://img.shields.io/badge/LeetCode-5-Medium-orange)
 ![Java](https://img.shields.io/badge/Language-Java-blue)
 ![Time](https://img.shields.io/badge/Time-O(n²)-green)
 ![Space](https://img.shields.io/badge/Space-O(1)-green)
@@ -37,11 +36,3 @@ Keep track of the longest one.
 ### Complexity
 - **Time**: `O(n²)`
 - **Space**: `O(1)`
-
-## 💻 Java Solution
-See `Solution.java`
-
-## 🏃 How to Run
-```bash
-javac Solution.java
-java Solution
